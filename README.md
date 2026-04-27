@@ -30,7 +30,7 @@
 - Job posting & application flow  
 
 👉 Live: https://hire-hub-iota.vercel.app/  
-👉 GitHub: https://github.com/yourusername/hirehub  
+👉 GitHub: https://github.com/harshberwa/hirehub  
 
 ---
 
